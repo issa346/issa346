@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @issa346
-- 👀 gosto de artes no geral 
-- 🌱 estou aprendendo latim 
+- 👀 espaço para organização de projetos
+- 🌱 estou aprendendo pela alura
 - 😄 BEM VINDOS!
 
 
